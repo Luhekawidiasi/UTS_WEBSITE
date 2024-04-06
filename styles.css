@@ -1,5 +1,5 @@
 * {
-    margin: 0;
+    margin: 10px;
     padding: 0;
     box-sizing: border-box;
   }
@@ -16,12 +16,12 @@
   }
   
   nav ul li {
-    margin-right: 1rem;
+    margin-right: 20px;
   }
   
   nav ul li a {
     text-decoration: none;
-    color: #fff;
+    color: #fffcfc;
   }
   
   .intro {
@@ -30,8 +30,8 @@
   }
   
   footer {
-    background-color: #333;
-    color: #fff;
+    background-color: #b1f0a5;
+    color: #181414;
     text-align: center;
-    padding: 1rem;
+    padding: 10px;
   }
