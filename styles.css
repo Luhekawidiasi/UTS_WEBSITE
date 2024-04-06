@@ -7,7 +7,7 @@
   header {
     background-color: #333;
     color: #fff;
-    padding: 1rem;
+    padding: 20px;
   }
   
   nav ul {
@@ -21,12 +21,12 @@
   
   nav ul li a {
     text-decoration: none;
-    color: #fffcfc;
+    color: #e25858;
   }
   
   .intro {
     text-align: center;
-    padding: 2rem;
+    padding: 20px;
   }
   
   footer {
